@@ -76,18 +76,17 @@ namespace selenium
 
           Thread.Sleep(3000);
           
-          digitar.SendKeys("Meu nome é Gabriel Neres sou promoter do Mahal");
+          digitar.SendKeys("Meu nome é Gabriel Neres sou promoter do Clube Chalezinho");
           enviar.Click();
           
           Thread.Sleep(3000);
           
-          digitar.SendKeys("Vai um link com desconto para amanhã!? ");
+          digitar.SendKeys("...");
           enviar.Click();
 
           Thread.Sleep(3000);
 
-          digitar.SendKeys("https://www.sympla.com.br/evento/mahal/1614959?d=GabrielNeres");
-          Thread.Sleep(2000);
+          digitar.SendKeys("...");
           enviar.Click();
           
           Thread.Sleep(3000);
