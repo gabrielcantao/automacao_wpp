@@ -76,17 +76,17 @@ namespace selenium
 
           Thread.Sleep(3000);
           
-          digitar.SendKeys("Meu nome é Gabriel Neres sou promoter do Clube Chalezinho");
+          digitar.SendKeys("Sua MSG AQUI");
           enviar.Click();
           
           Thread.Sleep(3000);
           
-          digitar.SendKeys("...");
+          digitar.SendKeys("Sua MSG AQUI");
           enviar.Click();
 
           Thread.Sleep(3000);
 
-          digitar.SendKeys("...");
+          digitar.SendKeys("Sua MSG AQUI");
           enviar.Click();
           
           Thread.Sleep(3000);
